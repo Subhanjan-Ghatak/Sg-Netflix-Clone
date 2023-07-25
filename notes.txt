@@ -1,0 +1,13 @@
+1.Frontend
+  Html =>make the skeleton of the web page
+  css =>coloring,adjusting the font
+  javascript => user interactions, live to the website
+2. Backend
+
+
+
+UI
+
+figure out the reusable elements
+divide the ui into fragments 
+build the skeleton > style (css)
